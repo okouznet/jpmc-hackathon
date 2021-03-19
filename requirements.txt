@@ -3,7 +3,7 @@ Flask-Cors==3.0.3
 Flask-SQLAlchemy==2.3.2
 gunicorn==19.6.0
 html5lib==0.999999999
-Jinja2==2.9.6
+Jinja2==2.11.3
 jsonpointer==2.0
 jsonschema==2.6.0
 pathlib2==2.3.0
